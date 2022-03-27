@@ -1,0 +1,93 @@
+editor
+sublime text
+
+html template
+
+<doctype html>
+html
+         head head- support, file link-
+         body body- content
+       html
+
+     content
+     title- h1- h6
+       text
+        link
+        image
+          
+
+
+     element 
+    h1 content h1 
+    tag
+       img, src= ""
+       attribute
+       aditional data
+       nane="value"
+      
+
+      seo
+      h1
+      h2
+      p
+
+
+      some useful content
+      h1-h6
+      p
+      img
+      download-  best
+      cdn- content delivery network-http
+
+      a
+
+      google drive
+      link- share-
+
+
+
+      jpg
+      pgn
+
+
+      mp3
+
+
+      mp4
+
+
+
+      seo- search en..opt
+      h1
+      h2
+      p
+      images-file name-tag-alt
+
+
+      perfomance- speed
+
+
+      standard f....
+      w3c- download
+
+
+      facebook- post- backend- data- save-
+      request
+      response
+      cdn
+
+
+      subj-blog,food,news,portfolio, e-comerce
+      asset/file
+
+      measurment unit- px
+
+       src+alt
+      images -3mb- load- slow
+
+      markup- validation
+
+      width
+      height
+       
+      
